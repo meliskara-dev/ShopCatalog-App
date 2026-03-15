@@ -1,5 +1,6 @@
 # 🛍️ ShopCatalog App
 
+#### ShoppingCatalog is a Flutter application that allows users to browse products, view detailed information, and manage their shopping cart.
 ---
 
 ## 📱 Screens
@@ -7,7 +8,7 @@
 | Screen | Description |
 |---|---|
 | 🔐 Welcome | Get started |
-| 🛒 Product List | Product listing with GridView and search |
+| 🛒 Product List | Product listing with GridView and searchbar |
 | 📦 Product Detail | Product details with add to cart |
 | 🧺 Cart | Cart management  |
 
@@ -43,8 +44,8 @@ lib/
 
 ## 🛠️ Built With
 
-- **Flutter** — UI framework
-- **Dart** — Programming language
+- **Flutter ^3.41.4**  — UI framework
+- **Dart ^3.11.1** — Programming language
 
 ---
 
