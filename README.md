@@ -1,6 +1,6 @@
 # 🛍️ ShopCatalog App
 
-#### ShoppingCatalog is a Flutter application that allows users to browse products, view detailed information, and manage their shopping cart.
+#### Shop Catalog App is a Flutter application that allows users to browse products, view detailed information, and manage their shopping cart.
 ---
 
 ## 📱 Screens
