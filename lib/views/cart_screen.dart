@@ -20,9 +20,8 @@ class _CartScreenState extends State<CartScreen> {
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text("Card"),
+        title: Text("Back"),
         backgroundColor: Colors.white,
-        //boşluk
         leadingWidth: 20,
       ),
       body: SafeArea(
